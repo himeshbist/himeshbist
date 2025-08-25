@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Web Developer & Data Analyst from India 🇮🇳</h3>
 
 <p align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXpyNnNzdHR4eTRzcDl1aGl6OGh3N2VpOWZ6eXd1OHdjdXd3cjhjdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" width="400" />
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXpyNnNzdHR4eTRzcDl1aGl6OGh3N2VpOWZ6eXd1OHdjdXd3cjhjdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" width="200" />
 
 </p>
 
