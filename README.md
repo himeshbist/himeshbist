@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Web Developer & Data Analyst from India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2RtaWUzYjV5aXR6MGtsaWhnaDlpbHpjbnd6d2U2NnJocGZ0enYyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggACpCjo6jpI2h/giphy.gif" width="600" />
+  <img src="https://media.giphy.com/media/I_AMgTa2cT6CM/giphy.gif" width="600" />
 </p>
 
 ---
@@ -14,10 +14,21 @@ I'm a final-year student at **IIT Patna**, deeply passionate about the intersect
 - 🔭 I’m currently working on a **Personal Portfolio Website** and a **Sales Dashboard Project**.
 - 🌱 I’m currently learning **Advanced SQL techniques** and **Next.js**.
 - 👯 I’m looking to collaborate on **Open Source Web Development or Data Science projects**.
-- 🤔 I’m looking for help with **optimizing database queries**.
 - 💬 Ask me about **React, Python, and Data Visualization**.
 - 📫 How to reach me: **himesh_2312rec299@iitp.ac.in**
 - 😄 Pronouns: He/Him
+
+---
+
+### 🚀 My Work
+
+Here are some of the projects I'm proud of:
+
+| Project Name | Description | Link |
+|---|---|---|
+| **3D Website (Awwards Clone)** | A visually stunning 3D website clone, built with modern web technologies. | [View Project](https://github.com/himeshbist/awwards) |
+| **Expense Tracker** | A handy tool to track your daily expenses and manage your budget effectively. | [View Project](https://github.com/himeshbist/Expense-Tracker) |
+| **Movie App** | A feature-rich application to discover and explore movies, with details and ratings. | [View Project](https://github.com/himeshbist/movie-app) |
 
 ---
 
@@ -88,4 +99,7 @@ My skills are a blend of web technologies and data analysis tools.
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  </p>
+  <a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
