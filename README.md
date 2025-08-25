@@ -2,7 +2,8 @@
 <h3 align="center">A Passionate Web Developer & Data Analyst from India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="600" />
+    <img src="https://github.com/SubhamRaoniar/SubhamRaoniar/blob/master/assets/dev.gif?raw=true" width="600" />
+
 </p>
 
 ---
